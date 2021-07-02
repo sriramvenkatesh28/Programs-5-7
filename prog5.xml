@@ -1,0 +1,41 @@
+<?xml-stylesheet type="text/css" href="prog5.css"?>
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<h1> STUDENTS DESCRIPTION </h1>
+	</head>
+	<students>
+		<student>
+			<USN> ID : 1JT21IS001</USN>
+			<name>Name : AJAY</name>
+			<college>COLLEGE : JIT</college>
+			<branch>BRANCH : Information Science and Engineering</branch>
+			<year>YEAR : 2021</year>
+			<e-mail>E-Mail : ajay@gmail.com</e-mail>
+		</student>
+		<student>
+			<USN>USN : 1JT21IS034 </USN>
+			<name>NAME : Ramya </name>
+			<college>COLLEGE : JIT</college>
+			<branch>BRANCH : Information Science and Engineering</branch>
+			<year>YEAR : 2021</year>
+			<e-mail>E-Mail : ramya@gmail.com</e-mail>
+		</student>
+		<student>
+			<USN>USN : 1JT21IS055</USN>
+			<name>NAME : Thanu </name>
+			<college>COLLEGE : JIT</college>
+			<branch>BRANCH : Information Science and Engineering</branch>
+			<year>YEAR : 2021</year>
+			<e-mail>E-Mail : tanu@gmail.com</e-mail>
+		</student>
+		<student>
+			<USN>USN : 1JT18IS056 </USN>
+			<name>NAME : Sriram </name>
+			<college>COLLEGE : JIT</college>
+			<branch>BRANCH : Information Science and Engineering</branch>
+			<year>YEAR : 2018</year>
+			<e-mail>E-Mail : sriram@gmail.com</e-mail>
+		</student>
+	</students>
+</html>
